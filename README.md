@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karthik Mohan
 
-🎯 AVP – Products | MBA (AI for Business – BITS Pilani)  
+🎯 AVP – Products | MBA (AI for Business – BITS Pilani/ B.E Visvesvaraya Technological University)  
 ⚙️ Blockchain, AI & Product Engineering  
 ✍️ Creator of *Productive Chains*
 
