@@ -28,10 +28,10 @@ I'm a **technical product leader** building expressive APIs, scalable systems, a
 
 ## 🧠 Focus Areas
 
-- AI System Design & Prompt Engineering  
+- System Design & AI Engineering and Generalism
 - First-Principles Product Thinking  
-- Developer Experience (DX) & API Craftsmanship  
-- Web3, Blockchain, and Trust Protocols  
+- Enterprise Experience (EX) & API Craftsmanship  
+- SaaS, Web3, Blockchain, and Trust Protocols  
 - Writing to clarify systems and strategy
 
 ---
@@ -46,6 +46,24 @@ I work closely with enterprise teams to build platforms that scale — technical
 🔹 **Strategic Systems**: I build not just features, but primitives — systems that other systems can build on.
 
 ---
+### ✨ On the Creative Side
+
+Beyond code, I write **speculative fiction** and build **mythic systems** like **BrahmaScript** and **Māyāforge**, where stories and protocols intersect. My creative work blends **AI, worldbuilding, and narrative systems** — exploring how imagination can shape better technology.
+
+---
+
+### 🧬 Design Philosophy
+
+I believe building systems and building stories are two sides of the same design coin.
+
+---
+
+### 📖 Publications
+
+I occasionally publish essays, world notes, and narrative experiments at **System Signal Blog**.
+
+---
+
 
 ## 💼 Thinking of working together?
 
