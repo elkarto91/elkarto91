@@ -19,7 +19,8 @@ I'm a **technical product leader** building expressive APIs, scalable systems, a
 
 ## 🔧 Featured Projects
 
-- [📡 Operary](https://operary.systemsignal.dev) — A signal-based task routing service for clean backends  
+- [📡 Operary](https://systemsignal.dev/operary) — A signal-based task routing service for clean backends
+- [🧠 Neuralic](https://systemsignal.dev/neuralic) — The reasoning engine that evaluates rules, executes decision graphs, and produces deterministic outcomes across multiple domains.  
 - [✍️ System Signal Blog](https://www.notion.so/System-Signal-Blog-1f94f0df7c80805887aedcb1dc6aa810?pvs=4) — Essays on clarity, systems, and protocol-driven thinking  
 - [🧰 Strategy Templates](https://systemsignal.dev/templates) — My real-world PM & GTM playbooks  
 - [📐 Architecture Gallery](https://systemsignal.dev/projects) — Snapshots of systems I've led and scaled
