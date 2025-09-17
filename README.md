@@ -2,10 +2,6 @@
 
 [![AVP – Products](https://img.shields.io/badge/Role-AVP%20%E2%80%93%20Products-blue)](#)
 [![AI Generalist](https://img.shields.io/badge/AI-Generalist-purple)](#)
-[![MBA in AI for Business | BE in Info Science](https://img.shields.io/badge/Education-MBA%20%7C%20BE%20in%20Info%20Science-brightgreen)](#)
-[![API + System Design](https://img.shields.io/badge/API%20%2B-System%20Design-yellowgreen)](#)
-[![Operary & System Signal](https://img.shields.io/badge/Projects-Operary%20%26%20System%20Signal-orange)](#)
-[![Blog on Notion](https://img.shields.io/badge/Read-System%20Signal%20Blog-lightgrey)](https://www.notion.so/System-Signal-Blog-1f94f0df7c80805887aedcb1dc6aa810?pvs=4)
 
 ---
 [![Website](https://img.shields.io/badge/Website-systemsignal.dev-0A0A0A?style=flat&logo=firefox-browser)](https://systemsignal.dev/)
