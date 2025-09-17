@@ -37,8 +37,6 @@
 [![Neuralic](https://img.shields.io/badge/Neuralic-AI%20Governance-111111?style=flat)](#)
 [![Ideas of Scale](https://img.shields.io/badge/Ideas%20of%20Scale-EA%20%2F%20Product%20Frameworks-111111?style=flat)](https://systemsignal.dev/signalstack#ideas-of-scale)
 [![System Signal](https://img.shields.io/badge/System%20Signal-Essays%20%26%20Case%20Studies-111111?style=flat)](https://systemsignal.dev/)
----
-# 👋 Hey, I'm Karthik Mohan
 
 **System Design · Enterprise Architecture · Product Strategy**  
 AVP – Products • Member, IEI (Institution of Engineers India)  
