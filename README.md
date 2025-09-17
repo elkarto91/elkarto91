@@ -7,6 +7,41 @@
 [![Operary & System Signal](https://img.shields.io/badge/Projects-Operary%20%26%20System%20Signal-orange)](#)
 [![Blog on Notion](https://img.shields.io/badge/Read-System%20Signal%20Blog-lightgrey)](https://www.notion.so/System-Signal-Blog-1f94f0df7c80805887aedcb1dc6aa810?pvs=4)
 
+---
+[![Website](https://img.shields.io/badge/Website-systemsignal.dev-0A0A0A?style=flat&logo=firefox-browser)](https://systemsignal.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthik%20Mohan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-m-portfolio/)
+[![Twitter/X](https://img.shields.io/badge/Twitter-@chaingopher-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/chaingopher)
+[![Email](https://img.shields.io/badge/Email-karthik%40systemsignal.dev-D14836?style=flat&logo=gmail&logoColor=white)](mailto:karthik@systemsignal.dev)
+![GitHub followers](https://img.shields.io/github/followers/elkarto91?label=Followers&style=flat)
+![GitHub stars](https://img.shields.io/github/stars/elkarto91?affiliations=OWNER%2CCOLLABORATOR&style=flat)
+
+![Focus](https://img.shields.io/badge/Focus-System%20Design%20|%20Enterprise%20Architecture%20|%20Product%20Strategy-222222?style=flat)
+![IEI Member](https://img.shields.io/badge/Member-IEI%20(India)-6A0DAD?style=flat)
+![MBA](https://img.shields.io/badge/MBA-AI%20for%20Business%20(2025–2027)-6C63FF?style=flat)
+
+![TOGAF](https://img.shields.io/badge/Framework-TOGAF-2D2D2D?style=flat)
+![LeanIX](https://img.shields.io/badge/Governance-LeanIX-0E83CD?style=flat)
+![ArchiMate](https://img.shields.io/badge/Modeling-ArchiMate-2A7D2E?style=flat)
+![OKRs/KPIs](https://img.shields.io/badge/Product-OKRs%20%26%20KPIs-FF6F00?style=flat)
+![JTBD](https://img.shields.io/badge/Discovery-JTBD-444444?style=flat)
+
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger%20Fabric-2F3134?style=flat&logo=hyperledger&logoColor=white)](https://www.hyperledger.org/)
+[![Hedera](https://img.shields.io/badge/Hedera-000000?style=flat&logo=hedera&logoColor=white)](https://hedera.com/)
+[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)](https://ethereum.org/)
+[![zkSync](https://img.shields.io/badge/zkSync-6E56CF?style=flat&logo=zksync&logoColor=white)](https://zksync.io/)
+
+
+[![Operary](https://img.shields.io/badge/Operary-Industrial%20Coordination-111111?style=flat)](https://operary.systemsignal.dev)
+[![Neuralic](https://img.shields.io/badge/Neuralic-AI%20Governance-111111?style=flat)](#)
+[![Ideas of Scale](https://img.shields.io/badge/Ideas%20of%20Scale-EA%20%2F%20Product%20Frameworks-111111?style=flat)](https://systemsignal.dev/signalstack#ideas-of-scale)
+[![System Signal](https://img.shields.io/badge/System%20Signal-Essays%20%26%20Case%20Studies-111111?style=flat)](https://systemsignal.dev/)
+---
 # 👋 Hey, I'm Karthik Mohan
 
 **System Design · Enterprise Architecture · Product Strategy**  
