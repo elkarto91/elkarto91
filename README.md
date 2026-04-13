@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Karthik Mohan
+# 👋 Hey, I'm Karthik.
 
 [![AVP – Products](https://img.shields.io/badge/Role-AVP%20%E2%80%93%20Products-blue)](#)
 [![AI Generalist](https://img.shields.io/badge/AI-Generalist-purple)](#)
